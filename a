@@ -5,6 +5,8 @@ import com.xx.xx.Common
 class xx {
   public void commonMethod(Common common){
   }
+  public void aSpecMethod(A a){
+  }
 
   public void bSpecMethod(B b){
 }
